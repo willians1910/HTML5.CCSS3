@@ -1,3 +1,8 @@
 body{
-    background:cyan;
+    body{background: red; color: yellow}
+
+}
+h1{
+    color:green;
+    font-family:fantasy;
 }
